@@ -1,6 +1,7 @@
 #!/bin/bash
 REPOSITORY=/home/ubuntu/app
 
+ls
 cd dist/ssr
 sudo npm i
 # 참조
